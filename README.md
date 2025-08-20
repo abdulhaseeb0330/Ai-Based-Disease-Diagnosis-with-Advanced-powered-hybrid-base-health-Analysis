@@ -29,3 +29,14 @@ follow for more
 
 🔖 hashtag#AI hashtag#MedicalAI hashtag#SQL hashtag#SSMS hashtag#DiseaseDiagnosis hashtag#HealthTech hashtag#HybridHealth hashtag#AIProject hashtag#AbdulHaseeb hashtag#SecondSemesterProject hashtag#DigitalHealth hashtag#FutureOfHealthcare hashtag#StudentInnovation hashtag#AIAsDoctor hashtag#abdulhaseeb0330
 <img width="4961" height="7016" alt="Ai based disease diagnosis with advance powered hybrid base health intelligence by abdulhaseeb0330" src="https://github.com/user-attachments/assets/00b20a1c-c56f-49bb-8803-8ea52554dccb" />
+
+
+
+# Open Community Dataset
+
+This repository is an open collection where anyone can add related data and anyone can freely use it.
+
+- Data sources: Internet, personal collections, contributors
+- License: CC0 (Public Domain) → Free for any use
+- Contributions: Just upload your data via pull request
+
